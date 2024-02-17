@@ -3,6 +3,8 @@ const Schema = require("./schema.js")
 
 require('dotenv').config();
 
+
+
 class Modal {
 	constructor(database, tableName) {
 		this._database = database;
