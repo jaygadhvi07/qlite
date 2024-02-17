@@ -1,0 +1,29 @@
+{
+  "name": "qlite",
+  "version": "0.0.1",
+  "description": "Simple query builder",
+  "main": "idnex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaygadhvi07/qlite.git"
+  },
+  "keywords": [
+    "QueryBuiler",
+    "SQL",
+    "Query",
+    "builder",
+    "mysql"
+  ],
+  "author": "Jay Gadhvi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaygadhvi07/qlite/issues"
+  },
+  "homepage": "https://github.com/jaygadhvi07/qlite#readme",
+  "dependencies": {
+    "mysql2": "^3.9.1"
+  }
+}
